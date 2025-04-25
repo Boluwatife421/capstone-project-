@@ -10,7 +10,7 @@ This data analysis project aim to generate insight into the sales performance of
 This data set  was provided by Incubator Hub.
 
 ### Tools used 
-- MIcrosoft EXcel for;
+- MIcrosoft EXcel [Download here](https://www.microsoft.com)
    1. data cleaning
    2.  analysis
    3.   visualization
@@ -21,4 +21,26 @@ This data set  was provided by Incubator Hub.
    3. Data Visualization
    4. Report and dashboard creation
    5. Data Sharing
+### Data Cleaning and  preparation
+In the initial phase of  data  cleaning and preparation , we perform the following action;
+ 1. Data loading and Inspection
+ 2. Handling missing variables
+ 3. Data cleaning and formatting
+### Exploratory Data Analysis
+EDA involved  the exploring of Data to answer some questions about the Data such as;
+- what is the overall sales trend ?
+- Which product are the top sellers?
+- what are the  regional performance?
+- what are the  monthly sales trends?
+- what are the product on peak sales?
+### Data Analysis
+---
+This is where I  include some basic lines of codes or queries or even some of the dax expressions used during my analysis;
+ 
+ ```SQL
+ SELECT*FROM TABLE1
+ WHERE CONDITION =TRUE
+ ```
+
+
 
